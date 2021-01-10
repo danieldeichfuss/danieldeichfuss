@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Daniel, I'm a Senior Software Engineer with a music business background. I currently work @ Delivery Hero in Berlin, Germany
+
 <!--
 **danieldeichfuss/danieldeichfuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
