@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, I'm a Senior Software Engineer with a music business background. I currently work @ Flink in Berlin, Germany. Ex Delivery Hero
+I'm Daniel, I'm a Senior Software Engineer with a music business background. I currently work @weissaufschwarz. Previously at Delivery Hero and Flink.
 
 <!--
 **danieldeichfuss/danieldeichfuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
